@@ -90,6 +90,10 @@ int main()
     cin>>m;
     c = encrypt(e, n);
     cout << "Encrypted message is=" << c << endl;
+    cout<<"Fork+new configuration(cout some words)"<<endl;
+    cout<<"Fork+new configuration(cout some words)"<<endl;
+    cout<<"Fork+new configuration(cout some words)"<<endl;
+	
 
 	return 0;
 }
